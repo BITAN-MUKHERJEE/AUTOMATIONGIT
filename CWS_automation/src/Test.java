@@ -24,6 +24,7 @@ public class Test {
               new BufferedInputStream(
                    new FileInputStream("U:\\Tamaghna"));
 
+
          BufferedOutputStream out = 
               new BufferedOutputStream(client.getOutputStream());
               
