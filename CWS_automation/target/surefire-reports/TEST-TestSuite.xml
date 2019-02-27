@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="23" failures="0" name="TestSuite" time="61,334.303" errors="0" skipped="0">
+  <properties>
+    <property name="current.date" value="2018-12-31-14-15"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Windows\system32\config\systemprofile\.jenkins\workspace\CWS_AUTOMATION"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\apsinha\workspace2\CWS_automation"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\Users\apsinha\workspace2\CWS_automation"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Windows\System32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="jnidispatch.path" value="C:\Windows\TEMP\jna-1246852792\jna3976340148896928101.dll"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2/bin;C:\Program Files\Java\jdk1.8.0_121/bin;C:\Program Files\Java\jdk1.8.0_121/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\ThinPrint\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;;."/>
+    <property name="surefire.test.class.path" value="C:\Users\apsinha\workspace2\CWS_automation\target\test-classes;C:\Users\apsinha\workspace2\CWS_automation\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\com\hynnet\jacob\1.18\jacob-1.18.jar;C:\Program Files\Java\jdk1.8.0_121\lib\tools.jar;C:\Windows\system32\config\systemprofile\.m2\repository\de\openkeyword\autoit\0.0.15\autoit-0.0.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sf\jacob-project\jacob\1.14.3\jacob-1.14.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\antlr\antlr4-runtime\4.5.2\antlr4-runtime-4.5.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\antlr\ST4\4.0.8\ST4-4.0.8.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\antlr\antlr-runtime\3.5.2\antlr-runtime-3.5.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.53.0\selenium-firefox-driver-2.53.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.53.0\selenium-remote-driver-2.53.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-api\2.53.0\selenium-api-2.53.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.53.0\selenium-chrome-driver-2.53.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-htmlunit-driver\2.52.0\selenium-htmlunit-driver-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.18\htmlunit-2.18.jar;C:\Windows\system32\config\systemprofile\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpmime\4.5\httpmime-4.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar;C:\Windows\system32\config\systemprofile\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sourceforge\nekohtml\nekohtml\1.9.22\nekohtml-1.9.22.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.16\cssparser-0.9.16.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.12.v20150709\websocket-client-9.2.12.v20150709.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\eclipse\jetty\jetty-util\9.2.12.v20150709\jetty-util-9.2.12.v20150709.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\eclipse\jetty\jetty-io\9.2.12.v20150709\jetty-io-9.2.12.v20150709.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.12.v20150709\websocket-common-9.2.12.v20150709.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.12.v20150709\websocket-api-9.2.12.v20150709.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\sun\xml\bind\jaxb-core\2.2.11\jaxb-core-2.2.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\javax\xml\bind\jaxb-api\2.2.11\jaxb-api-2.2.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\sun\xml\bind\jaxb-impl\2.2.11\jaxb-impl-2.2.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\sun\xml\bind\jaxb-jxc\2.2.11\jaxb-jxc-2.2.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\sun\xml\bind\jaxb-xjc\2.2.11\jaxb-xjc-2.2.11.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.48.0\selenium-safari-driver-2.48.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi\3.15\poi-3.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml\3.15\poi-ooxml-3.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.15\poi-ooxml-schemas-3.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sourceforge\jexcelapi\jxl\2.6\jxl-2.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-vfs2\2.0\commons-vfs2-2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\maven\scm\maven-scm-api\1.4\maven-scm-api-1.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.6\plexus-utils-1.5.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\maven\scm\maven-scm-provider-svnexe\1.4\maven-scm-provider-svnexe-1.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\maven\scm\maven-scm-provider-svn-commons\1.4\maven-scm-provider-svn-commons-1.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\regexp\regexp\1.3\regexp-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-server\2.52.0\selenium-server-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.48\bcprov-jdk15on-1.48.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.48\bcpkix-jdk15on-1.48.jar;C:\Windows\system32\config\systemprofile\.m2\repository\mx4j\mx4j-tools\3.0.1\mx4j-tools-3.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.2.13.v20150730\jetty-repacked-9.2.13.v20150730.jar;C:\Windows\system32\config\systemprofile\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\jetty-rc-repacked\5\jetty-rc-repacked-5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\yaml\snakeyaml\1.8\snakeyaml-1.8.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-java\2.52.0\selenium-java-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.52.0\selenium-edge-driver-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.52.0\selenium-ie-driver-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-support\2.52.0\selenium-support-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\webbitserver\webbit\0.4.14\webbit-0.4.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\netty\netty\3.5.2.Final\netty-3.5.2.Final.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.52.0\selenium-leg-rc-2.52.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\selendroid\selendroid-client\0.10.0\selendroid-client-0.10.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\selendroid\selendroid-common\0.10.0\selendroid-common-0.10.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\selendroid\selendroid-standalone\0.12.0\selendroid-standalone-0.12.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\selendroid\selendroid-server-common\0.12.0\selendroid-server-common-0.12.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\netty\netty-all\4.0.21.Final\netty-all-4.0.21.Final.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.2.1\gson-2.2.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpclient\4.3.4\httpclient-4.3.4.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\json\json\20090211\json-20090211.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-io\commons-io\2.2\commons-io-2.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\android\tools\ddms\ddmlib\23.0.1\ddmlib-23.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\sf\kxml\kxml2\2.3.0\kxml2-2.3.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\android\tools\common\23.0.1\common-23.0.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-compress\1.5\commons-compress-1.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\tukaani\xz\1.2\xz-1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\guava\guava\17.0\guava-17.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-net\commons-net\3.6\commons-net-3.6.jar;"/>
+    <property name="maven.conf" value="C:\Windows\System32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="C:\Windows\System32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="ZAUSVDIAPSINHA$"/>
+    <property name="java.class.path" value="C:\Windows\System32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f C:\Users\apsinha\workspace2\CWS_automation\pom.xml clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Windows\System32\config\systemprofile\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\3.5.2\bin\.."/>
+    <property name="localRepository" value="C:\Windows\system32\config\systemprofile\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="compare2" time="2,624.414"/>
+  <testcase name="compare2" time="2,658.385"/>
+  <testcase name="compare2" time="2,705.239"/>
+  <testcase name="compare2" time="2,518.284"/>
+  <testcase name="compare2" time="3,000.142"/>
+  <testcase name="compare2" time="2,707.784"/>
+  <testcase name="compare2" time="2,664.75"/>
+  <testcase name="compare2" time="2,666.114"/>
+  <testcase name="compare2" time="2,675.669"/>
+  <testcase name="compare2" time="2,674.73"/>
+  <testcase name="compare2" time="2,638.503"/>
+  <testcase name="compare2" time="2,617.163"/>
+  <testcase name="compare2" time="2,639.665"/>
+  <testcase name="compare2" time="2,633.922"/>
+  <testcase name="compare2" time="2,646.508"/>
+  <testcase name="compare2" time="2,626.263"/>
+  <testcase name="compare2" time="2,676.422"/>
+  <testcase name="compare2" time="2,624.471"/>
+  <testcase name="compare2" time="2,673.581"/>
+  <testcase name="compare2" time="2,561.095"/>
+  <testcase name="compare2" time="2,599.446"/>
+  <testcase name="compare2" time="2,594.01"/>
+  <testcase name="compare2" time="2,622.017"/>
+</testsuite>

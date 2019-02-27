@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Wiley Test Suite" duration-ms="77150" started-at="2019-02-27T09:59:49Z" finished-at="2019-02-27T10:01:06Z">
+    <groups>
+    </groups>
+    <test name="Regression suite" duration-ms="77150" started-at="2019-02-27T09:59:49Z" finished-at="2019-02-27T10:01:06Z">
+      <class name="wiley.automation.core.report.SetupReport">
+        <test-method status="PASS" signature="setupReport(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:wiley.automation.core.report.SetupReport@5649fd9b]" name="setupReport" is-config="true" duration-ms="195" started-at="2019-02-27T15:29:49Z" finished-at="2019-02-27T15:29:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[all]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+      </class> <!-- wiley.automation.core.report.SetupReport -->
+      <class name="wiley.automation.wol.test.Compare_JPSlite">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="Setup" is-config="true" duration-ms="10428" started-at="2019-02-27T15:29:49Z" finished-at="2019-02-27T15:30:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="almtolit(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="almtolit" duration-ms="33926" started-at="2019-02-27T15:30:00Z" data-provider="compare11" finished-at="2019-02-27T15:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare1TC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare1TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Verify All the fields in Journal details Tab for  PrintISSN--->]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[bmukherjee]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley2023]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0001-5172]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1399-6576]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[AIC]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[AIChE Journal]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[American Institute of Chemical Engineers]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[http://www.wiley.com/trackthrough?urlcode=455802]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[C:\Users]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[UNKNOWN]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[http://mc.manuscriptcentral.com/aiche]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- almtolit -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="TearDown" is-config="true" duration-ms="2744" started-at="2019-02-27T15:30:34Z" finished-at="2019-02-27T15:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="Setup" is-config="true" duration-ms="4558" started-at="2019-02-27T15:30:37Z" finished-at="2019-02-27T15:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="almtolit1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="almtolit1" duration-ms="23371" started-at="2019-02-27T15:30:41Z" data-provider="compare12" finished-at="2019-02-27T15:31:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare2TC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Verify All the fields in Journal details Tab for  PrintISSN--->]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[bmukherjee]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley2023]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0002-7766]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1744-1714]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ABLJ]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[American Business Law Journal]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[American Institute of Chemical Engineers]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[http://www.wiley.com/trackthrough?urlcode=455802]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[C:\Users]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[UNKNOWN]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[http://mc.manuscriptcentral.com/aiche]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- almtolit1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_JPSlite@2d928643]" name="TearDown" is-config="true" duration-ms="1296" started-at="2019-02-27T15:31:05Z" finished-at="2019-02-27T15:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- wiley.automation.wol.test.Compare_JPSlite -->
+      <class name="wiley.automation.core.report.TeardownReport">
+        <test-method status="PASS" signature="teardownReport()[pri:0, instance:wiley.automation.core.report.TeardownReport@20322d26]" name="teardownReport" is-config="true" duration-ms="149" started-at="2019-02-27T15:31:06Z" finished-at="2019-02-27T15:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownReport -->
+      </class> <!-- wiley.automation.core.report.TeardownReport -->
+    </test> <!-- Regression suite -->
+  </suite> <!-- Wiley Test Suite -->
+</testng-results>

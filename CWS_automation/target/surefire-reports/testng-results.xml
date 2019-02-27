@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Wiley Test Suite" duration-ms="61217343" started-at="2018-12-31T08:45:46Z" finished-at="2019-01-01T01:46:03Z">
+    <groups>
+    </groups>
+    <test name="Regression suite" duration-ms="61217343" started-at="2018-12-31T08:45:46Z" finished-at="2019-01-01T01:46:03Z">
+      <class name="wiley.automation.wol.test.Compare_Selection">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="8668" started-at="2018-12-31T14:15:46Z" finished-at="2018-12-31T14:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2624402" started-at="2018-12-31T14:15:55Z" data-provider="compare2" finished-at="2018-12-31T14:59:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="1210" started-at="2018-12-31T14:59:40Z" finished-at="2018-12-31T14:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6384" started-at="2018-12-31T14:59:41Z" finished-at="2018-12-31T14:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2658385" started-at="2018-12-31T14:59:47Z" data-provider="compare2" finished-at="2018-12-31T15:44:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[51]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="910" started-at="2018-12-31T15:44:06Z" finished-at="2018-12-31T15:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6145" started-at="2018-12-31T15:44:06Z" finished-at="2018-12-31T15:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2705239" started-at="2018-12-31T15:44:13Z" data-provider="compare2" finished-at="2018-12-31T16:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[101]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="955" started-at="2018-12-31T16:29:18Z" finished-at="2018-12-31T16:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="7523" started-at="2018-12-31T16:29:19Z" finished-at="2018-12-31T16:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2518284" started-at="2018-12-31T16:29:26Z" data-provider="compare2" finished-at="2018-12-31T17:11:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[151]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[195]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="731" started-at="2018-12-31T17:11:25Z" finished-at="2018-12-31T17:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6265" started-at="2018-12-31T17:11:25Z" finished-at="2018-12-31T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="3000142" started-at="2018-12-31T17:11:32Z" data-provider="compare2" finished-at="2018-12-31T18:01:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[197]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[250]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="909" started-at="2018-12-31T18:01:32Z" finished-at="2018-12-31T18:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="5919" started-at="2018-12-31T18:01:33Z" finished-at="2018-12-31T18:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2707785" started-at="2018-12-31T18:01:39Z" data-provider="compare2" finished-at="2018-12-31T18:46:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[251]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[300]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="1034" started-at="2018-12-31T18:46:46Z" finished-at="2018-12-31T18:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6391" started-at="2018-12-31T18:46:47Z" finished-at="2018-12-31T18:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2664749" started-at="2018-12-31T18:46:54Z" data-provider="compare2" finished-at="2018-12-31T19:31:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[301]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[350]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="1005" started-at="2018-12-31T19:31:19Z" finished-at="2018-12-31T19:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="7298" started-at="2018-12-31T19:31:20Z" finished-at="2018-12-31T19:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2666114" started-at="2018-12-31T19:31:27Z" data-provider="compare2" finished-at="2018-12-31T20:15:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[351]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="907" started-at="2018-12-31T20:15:53Z" finished-at="2018-12-31T20:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6121" started-at="2018-12-31T20:15:54Z" finished-at="2018-12-31T20:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2675669" started-at="2018-12-31T20:16:00Z" data-provider="compare2" finished-at="2018-12-31T21:00:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[401]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[450]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="758" started-at="2018-12-31T21:00:36Z" finished-at="2018-12-31T21:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6240" started-at="2018-12-31T21:00:36Z" finished-at="2018-12-31T21:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2674730" started-at="2018-12-31T21:00:43Z" data-provider="compare2" finished-at="2018-12-31T21:45:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[451]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="913" started-at="2018-12-31T21:45:17Z" finished-at="2018-12-31T21:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6482" started-at="2018-12-31T21:45:18Z" finished-at="2018-12-31T21:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2638504" started-at="2018-12-31T21:45:25Z" data-provider="compare2" finished-at="2018-12-31T22:29:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[501]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[550]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="975" started-at="2018-12-31T22:29:23Z" finished-at="2018-12-31T22:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6276" started-at="2018-12-31T22:29:24Z" finished-at="2018-12-31T22:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2617163" started-at="2018-12-31T22:29:31Z" data-provider="compare2" finished-at="2018-12-31T23:13:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[551]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[600]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="963" started-at="2018-12-31T23:13:08Z" finished-at="2018-12-31T23:13:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6085" started-at="2018-12-31T23:13:09Z" finished-at="2018-12-31T23:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2639665" started-at="2018-12-31T23:13:15Z" data-provider="compare2" finished-at="2018-12-31T23:57:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[601]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[650]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="904" started-at="2018-12-31T23:57:14Z" finished-at="2018-12-31T23:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6092" started-at="2018-12-31T23:57:15Z" finished-at="2018-12-31T23:57:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2633922" started-at="2018-12-31T23:57:21Z" data-provider="compare2" finished-at="2019-01-01T00:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[651]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="923" started-at="2019-01-01T00:41:15Z" finished-at="2019-01-01T00:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6179" started-at="2019-01-01T00:41:16Z" finished-at="2019-01-01T00:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2646507" started-at="2019-01-01T00:41:22Z" data-provider="compare2" finished-at="2019-01-01T01:25:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[701]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[750]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="968" started-at="2019-01-01T01:25:29Z" finished-at="2019-01-01T01:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="5617" started-at="2019-01-01T01:25:30Z" finished-at="2019-01-01T01:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2626264" started-at="2019-01-01T01:25:36Z" data-provider="compare2" finished-at="2019-01-01T02:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[751]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[800]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="940" started-at="2019-01-01T02:09:22Z" finished-at="2019-01-01T02:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6367" started-at="2019-01-01T02:09:23Z" finished-at="2019-01-01T02:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2676422" started-at="2019-01-01T02:09:29Z" data-provider="compare2" finished-at="2019-01-01T02:54:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[801]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[850]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="866" started-at="2019-01-01T02:54:06Z" finished-at="2019-01-01T02:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6445" started-at="2019-01-01T02:54:06Z" finished-at="2019-01-01T02:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2624471" started-at="2019-01-01T02:54:13Z" data-provider="compare2" finished-at="2019-01-01T03:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[851]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[900]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="950" started-at="2019-01-01T03:37:57Z" finished-at="2019-01-01T03:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6845" started-at="2019-01-01T03:37:58Z" finished-at="2019-01-01T03:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2673582" started-at="2019-01-01T03:38:05Z" data-provider="compare2" finished-at="2019-01-01T04:22:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[951]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="925" started-at="2019-01-01T04:22:39Z" finished-at="2019-01-01T04:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="5899" started-at="2019-01-01T04:22:40Z" finished-at="2019-01-01T04:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2561094" started-at="2019-01-01T04:22:45Z" data-provider="compare2" finished-at="2019-01-01T05:05:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1101]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1150]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="873" started-at="2019-01-01T05:05:27Z" finished-at="2019-01-01T05:05:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="5939" started-at="2019-01-01T05:05:27Z" finished-at="2019-01-01T05:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2599446" started-at="2019-01-01T05:05:33Z" data-provider="compare2" finished-at="2019-01-01T05:48:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1151]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="818" started-at="2019-01-01T05:48:53Z" finished-at="2019-01-01T05:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="5540" started-at="2019-01-01T05:48:54Z" finished-at="2019-01-01T05:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2594010" started-at="2019-01-01T05:48:59Z" data-provider="compare2" finished-at="2019-01-01T06:32:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1251]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="902" started-at="2019-01-01T06:32:13Z" finished-at="2019-01-01T06:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="Setup" is-config="true" duration-ms="6056" started-at="2019-01-01T06:32:14Z" finished-at="2019-01-01T06:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="compare2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="compare2" duration-ms="2622018" started-at="2019-01-01T06:32:20Z" data-provider="compare2" finished-at="2019-01-01T07:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Compare29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Compare2_TC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Compare the price details of UAT and WIP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[apsinha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wiley$18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1301]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1350]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:wiley.automation.wol.test.Compare_Selection@47f6473]" name="TearDown" is-config="true" duration-ms="952" started-at="2019-01-01T07:16:02Z" finished-at="2019-01-01T07:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- wiley.automation.wol.test.Compare_Selection -->
+      <class name="wiley.automation.core.report.SetupReport">
+        <test-method status="PASS" signature="setupReport(java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:wiley.automation.core.report.SetupReport@90f6bfd]" name="setupReport" is-config="true" duration-ms="327" started-at="2018-12-31T14:15:46Z" finished-at="2018-12-31T14:15:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[all]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+      </class> <!-- wiley.automation.core.report.SetupReport -->
+      <class name="wiley.automation.core.report.TeardownReport">
+        <test-method status="PASS" signature="teardownReport()[pri:0, instance:wiley.automation.core.report.TeardownReport@1936f0f5]" name="teardownReport" is-config="true" duration-ms="116211" started-at="2019-01-01T07:16:03Z" finished-at="2019-01-01T07:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownReport -->
+      </class> <!-- wiley.automation.core.report.TeardownReport -->
+    </test> <!-- Regression suite -->
+  </suite> <!-- Wiley Test Suite -->
+</testng-results>
